@@ -1,0 +1,38 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Oil",
+      "type": "fluid",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.tempz.oil_bucket": "Oil Bucket",
+      "fluid.oil": "Oil"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "tempz",
+    "modName": "TempZ",
+    "version": "1.0.0",
+    "author": "jacob",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.14.4",
+    "usesProFeatures": false,
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000105419
+}

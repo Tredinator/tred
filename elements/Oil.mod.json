@@ -1,0 +1,21 @@
+{
+  "_fv": 5,
+  "_type": "fluid",
+  "definition": {
+    "name": "Oil",
+    "textureStill": "oil",
+    "textureFlowing": "oilm",
+    "luminosity": 1,
+    "density": 1007,
+    "viscosity": 1170,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "spawnWorldTypes": [
+      "Surface"
+    ]
+  }
+}
